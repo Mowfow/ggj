@@ -1,0 +1,11 @@
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\background.xnb
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\blank.xnb
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\gradient.xnb
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\gamefont.xnb
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\menufont.xnb
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\GGJ.exe
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\GGJ.pdb
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\GGJ.exe
+c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\GGJ.pdb
+C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\GGJ.csprojResolveAssemblyReference.cache
