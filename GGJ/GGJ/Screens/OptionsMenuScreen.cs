@@ -16,7 +16,7 @@ namespace GGJ
     /// <summary>
     /// The options screen is brought up over the top of the main menu
     /// screen, and gives the user a chance to configure the game
-    /// in various hopefully useful ways.
+    /// in various hopefully useful ways.qq
     /// </summary>
     class OptionsMenuScreen : MenuScreen
     {
