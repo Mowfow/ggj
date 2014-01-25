@@ -2,22 +2,13 @@
 <XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
   <Asset Type="Pipeline:BuildItemCollection">
     <Item>
-      <Source>background.png</Source>
-      <Name>background</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2014-01-11T18:03:01.802539+01:00</Time>
-    </Item>
-    <Item>
       <Source>blank.png</Source>
       <Name>blank</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\blank.xnb</Output>
-      <Time>2010-09-15T14:43:52+02:00</Time>
+      <Output>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2014-01-24T23:22:48.8970512+01:00</Time>
     </Item>
     <Item>
       <Source>gradient.png</Source>
@@ -25,8 +16,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\gradient.xnb</Output>
-      <Time>2010-09-15T14:43:52+02:00</Time>
+      <Output>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2014-01-24T23:22:48.8970512+01:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-01-24T23:22:48.8970512+01:00</Time>
     </Item>
     <Item>
       <Source>gamefont.spritefont</Source>
@@ -34,8 +34,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\gamefont.xnb</Output>
-      <Time>2010-09-15T14:43:52+02:00</Time>
+      <Output>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2014-01-24T23:22:48.8970512+01:00</Time>
     </Item>
     <Item>
       <Source>menufont.spritefont</Source>
@@ -43,8 +43,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\menufont.xnb</Output>
-      <Time>2010-09-15T14:43:52+02:00</Time>
+      <Output>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2014-01-24T23:22:48.8970512+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -53,10 +53,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJContent\</RootDirectory>
-      <LoggerRootDirectory>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
