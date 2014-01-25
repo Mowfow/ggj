@@ -9,14 +9,3 @@ c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\bin\x86\Debug\
 c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\GGJ.exe
 c:\users\maxime\documents\visual studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\GGJ.pdb
 C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\GGJ\GGJ\obj\x86\Debug\GGJ.csprojResolveAssemblyReference.cache
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\blank.xnb
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\gradient.xnb
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\background.xnb
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\gamefont.xnb
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\Content\menufont.xnb
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\GGJ.exe
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\bin\x86\Debug\GGJ.pdb
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\obj\x86\Debug\GGJ.csprojResolveAssemblyReference.cache
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\obj\x86\Debug\GGJ.exe
-C:\Users\Maxime\Documents\Visual Studio 2010\Projects\GGJ\ggj\GGJ\GGJ\obj\x86\Debug\GGJ.pdb
